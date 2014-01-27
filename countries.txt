@@ -1,0 +1,246 @@
+iso_a3,admin,plural,definite
+AFG,Afghanistan,0,0
+ALA,Aland,0,0
+ALB,Albania,0,0
+DZA,Algeria,0,0
+ASM,American Samoa,0,0
+AND,Andorra,0,0
+AGO,Angola,0,0
+AIA,Anguilla,0,0
+ATA,Antarctica,0,0
+ATG,Antigua and Barbuda,0,0
+ARG,Argentina,0,0
+ARM,Armenia,0,0
+ABW,Aruba,0,0
+-99,Ashmore and Cartier Islands,0,0
+AUS,Australia,0,0
+AUT,Austria,0,0
+AZE,Azerbaijan,0,0
+BHR,Bahrain,0,0
+BGD,Bangladesh,0,0
+BRB,Barbados,0,0
+BLR,Belarus,0,0
+BEL,Belgium,0,0
+BLZ,Belize,0,0
+BEN,Benin,0,0
+BMU,Bermuda,0,0
+BTN,Bhutan,0,0
+BOL,Bolivia,0,0
+BIH,Bosnia and Herzegovina,0,0
+BWA,Botswana,0,0
+BRA,Brazil,0,0
+IOT,British Indian Ocean Territory,0,0
+VGB,British Virgin Islands,1,1
+BRN,Brunei,0,0
+BGR,Bulgaria,0,0
+BFA,Burkina Faso,0,0
+BDI,Burundi,0,0
+KHM,Cambodia,0,0
+CMR,Cameroon,0,0
+CAN,Canada,0,0
+CPV,Cape Verde,0,0
+CYM,Cayman Islands,1,1
+CAF,Central African Republic,0,1
+TCD,Chad,0,0
+CHL,Chile,0,0
+CHN,China,0,0
+COL,Colombia,0,0
+COM,Comoros,1,1
+COK,Cook Islands,1,1
+CRI,Costa Rica,0,0
+HRV,Croatia,0,0
+CUB,Cuba,0,0
+CUW,Curaçao,0,0
+CYP,Cyprus,0,0
+CZE,Czech Republic,0,1
+COD,Democratic Republic of the Congo,0,1
+DNK,Denmark,0,0
+DJI,Djibouti,0,0
+DMA,Dominica,0,0
+DOM,Dominican Republic,0,1
+TLS,East Timor,0,0
+ECU,Ecuador,0,0
+EGY,Egypt,0,0
+SLV,El Salvador,0,0
+GNQ,Equatorial Guinea,0,0
+ERI,Eritrea,0,0
+EST,Estonia,0,0
+ETH,Ethiopia,0,0
+FLK,Falkland Islands,1,1
+FRO,Faroe Islands,1,1
+FSM,Federated States of Micronesia,1,1
+FJI,Fiji,0,0
+FIN,Finland,0,0
+FRA,France,0,0
+PYF,French Polynesia,0,0
+ATF,French Southern and Antarctic Lands,1,1
+GAB,Gabon,0,0
+GMB,Gambia,0,0
+GEO,Georgia,0,0
+DEU,Germany,0,0
+GHA,Ghana,0,0
+GRC,Greece,0,0
+GRL,Greenland,0,0
+GRD,Grenada,0,0
+GUM,Guam,0,0
+GTM,Guatemala,0,0
+GGY,Guernsey,0,0
+GIN,Guinea,0,0
+GNB,Guinea Bissau,0,0
+GUY,Guyana,0,0
+HTI,Haiti,0,0
+HMD,Heard Island and McDonald Islands,1,1
+HND,Honduras,0,0
+HKG,Hong Kong,0,0
+HUN,Hungary,0,0
+ISL,Iceland,0,0
+IND,India,0,0
+-99,Indian Ocean Territories,1,1
+IDN,Indonesia,0,0
+IRN,Iran,0,0
+IRQ,Iraq,0,0
+IRL,Ireland,0,0
+IMN,Isle of Man,0,1
+ISR,Israel,0,0
+ITA,Italy,0,0
+CIV,Ivory Coast,0,1
+JAM,Jamaica,0,0
+JPN,Japan,0,0
+JEY,Jersey,0,0
+JOR,Jordan,0,0
+KAZ,Kazakhstan,0,0
+KEN,Kenya,0,0
+KIR,Kiribati,0,0
+-99,Kosovo,0,0
+KWT,Kuwait,0,0
+KGZ,Kyrgyzstan,0,0
+LAO,Laos,0,0
+LVA,Latvia,0,0
+LBN,Lebanon,0,0
+LSO,Lesotho,0,0
+LBR,Liberia,0,0
+LBY,Libya,0,0
+LIE,Liechtenstein,0,0
+LTU,Lithuania,0,0
+LUX,Luxembourg,0,0
+MAC,Macao,0,0
+MKD,Macedonia,0,0
+MDG,Madagascar,0,0
+MWI,Malawi,0,0
+MYS,Malaysia,0,0
+MDV,Maldives,1,1
+MLI,Mali,0,0
+MLT,Malta,0,0
+MHL,Marshall Islands,1,1
+MRT,Mauritania,0,0
+MUS,Mauritius,0,0
+MEX,Mexico,0,0
+MDA,Moldova,0,0
+MCO,Monaco,0,0
+MNG,Mongolia,0,0
+MNE,Montenegro,0,0
+MSR,Montserrat,0,0
+MAR,Morocco,0,0
+MOZ,Mozambique,0,0
+MMR,Myanmar,0,0
+NAM,Namibia,0,0
+NRU,Nauru,0,0
+NPL,Nepal,0,0
+NLD,Netherlands,1,1
+NCL,New Caledonia,0,0
+NZL,New Zealand,0,0
+NIC,Nicaragua,0,0
+NER,Niger,0,0
+NGA,Nigeria,0,0
+NIU,Niue,0,0
+NFK,Norfolk Island,0,0
+PRK,North Korea,0,0
+-99,Northern Cyprus,0,0
+MNP,Northern Mariana Islands,1,1
+NOR,Norway,0,0
+OMN,Oman,0,0
+PAK,Pakistan,0,0
+PLW,Palau,0,0
+PSE,Palestine,0,0
+PAN,Panama,0,0
+PNG,Papua New Guinea,0,0
+PRY,Paraguay,0,0
+PER,Peru,0,0
+PHL,Philippines,1,1
+PCN,Pitcairn Islands,1,1
+POL,Poland,0,0
+PRT,Portugal,0,0
+PRI,Puerto Rico,0,0
+QAT,Qatar,0,0
+COG,Republic of Congo,0,1
+SRB,Republic of Serbia,0,1
+ROU,Romania,0,0
+RUS,Russia,0,0
+RWA,Rwanda,0,0
+BLM,Saint Barthelemy,0,0
+SHN,Saint Helena,0,0
+KNA,Saint Kitts and Nevis,0,0
+LCA,Saint Lucia,0,0
+MAF,Saint Martin,0,0
+SPM,Saint Pierre and Miquelon,0,0
+VCT,Saint Vincent and the Grenadines,0,0
+WSM,Samoa,0,0
+SMR,San Marino,0,0
+STP,Sao Tome and Principe,0,0
+SAU,Saudi Arabia,0,0
+SEN,Senegal,0,0
+SYC,Seychelles,1,1
+-99,Siachen Glacier,0,0
+SLE,Sierra Leone,0,0
+SGP,Singapore,0,0
+SXM,Sint Maarten,0,0
+SVK,Slovakia,0,0
+SVN,Slovenia,0,0
+SLB,Solomon Islands,1,1
+SOM,Somalia,0,0
+-99,Somaliland,0,0
+ZAF,South Africa,0,0
+SGS,South Georgia and South Sandwich Islands,1,1
+KOR,South Korea,0,0
+SSD,South Sudan,0,0
+ESP,Spain,0,0
+LKA,Sri Lanka,0,0
+SDN,Sudan,0,0
+SUR,Suriname,0,0
+SWZ,Swaziland,0,0
+SWE,Sweden,0,0
+CHE,Switzerland,0,0
+SYR,Syria,0,0
+TWN,Taiwan,0,0
+TJK,Tajikistan,0,0
+THA,Thailand,0,0
+BHS,The Bahamas,1,0
+TGO,Togo,0,0
+TON,Tonga,0,0
+TTO,Trinidad and Tobago,0,0
+TUN,Tunisia,0,0
+TUR,Turkey,0,0
+TKM,Turkmenistan,0,0
+TCA,Turks and Caicos Islands,1,1
+UGA,Uganda,0,0
+UKR,Ukraine,0,0
+ARE,United Arab Emirates,1,1
+GBR,United Kingdom,0,1
+GBR,Britain,0,0
+GBR,Great Britain,0,0
+TZA,United Republic of Tanzania,0,1
+USA,United States of America,1,1
+USA,USA,0,1
+USA,US,0,1
+VIR,United States Virgin Islands,1,1
+URY,Uruguay,0,0
+UZB,Uzbekistan,0,0
+VUT,Vanuatu,0,0
+VAT,Vatican,0,1
+VEN,Venezuela,0,0
+VNM,Vietnam,0,0
+WLF,Wallis and Futuna,0,0
+ESH,Western Sahara,0,0
+YEM,Yemen,0,0
+ZMB,Zambia,0,0
+ZWE,Zimbabwe,0,0
